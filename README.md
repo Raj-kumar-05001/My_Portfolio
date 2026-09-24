@@ -21,15 +21,6 @@ raj-portfolio/
 └── README.md           ← This file
 ```
 
----
-
-## How to Use
-
-1. **Open locally** — just double-click `index.html` in your browser. No server needed.
-2. **Host online** — upload the entire folder to GitHub Pages, Netlify, or Vercel.
-
----
-
 ## Customisation Guide
 
 ### Add project screenshots

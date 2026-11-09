@@ -30,28 +30,6 @@ raj-portfolio/
 
 ---
 
-## Customisation Guide
-
-### Add project screenshots
-1. Save your screenshot in the `images/` folder (e.g. `images/weather-app.png`)
-2. Open `js/data.js` and set `imgPath: 'images/weather-app.png'` for that project
-
-### Add live URLs & GitHub links
-Open `js/data.js` and fill in:
-```js
-liveUrl:   'https://your-live-site.com',
-githubUrl: 'https://github.com/yourusername/repo-name',
-```
-
-### Update social links
-In `js/data.js`, update:
-```js
-const SOCIAL = {
-  github:   'https://github.com/YOUR_USERNAME',
-  linkedin: 'https://linkedin.com/in/YOUR_USERNAME'
-};
-```
-
 ### Add a new project
 Copy one object inside the `PROJECTS` array in `js/data.js` and fill in the fields.
 

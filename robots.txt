@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raj-kumar-shukla-wine.vercel.app//sitemap.xml
